@@ -1,7 +1,16 @@
+#
+#Name: Aidan Lenhart
+#Student ID: 014070273
+#Date (last modified): 9/24/2018
+#
+# Lab 0
+# Section 13
+# Purpose of Lab: Practice submission procedure and introduce python syntax
+# additional comments
+
 import unittest
 import io, sys
 from planets import *
-
 
 
 class Test_planets(unittest.TestCase):
